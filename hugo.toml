@@ -1,0 +1,4 @@
+baseURL = 'https://dropth.github.io/'
+languageCode = 'fr-FR'
+title = 'Gazelle test'
+theme = 'PaperMod'
